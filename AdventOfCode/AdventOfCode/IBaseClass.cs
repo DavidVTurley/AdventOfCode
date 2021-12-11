@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AdventOfCode
 {
-    internal interface IBaseClass
+    interface IBaseClass
     {
 
         public void Run();
